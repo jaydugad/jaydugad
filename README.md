@@ -1,6 +1,6 @@
 ### Hi, I'm Jay! ✨
 🚀 Data Scientist in the making, sharing my tech journey and learnings along the way!<br/>
-🎓 Currently studying MSc Data Science at [Kingston University, London](https://www.kingston.ac.uk/postgraduate/courses/data-science-msc/). <br/>
+🎓 Completed Masters in Data Science at [Kingston University, London](https://www.kingston.ac.uk/postgraduate/courses/data-science-msc/). <br/>
 🔍 Passionate about data analytics, machine learning, and data visualization. <br/>
 
 Check out what I’ve been up to:  <br/>
