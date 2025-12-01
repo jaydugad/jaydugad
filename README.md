@@ -1,14 +1,14 @@
 ### Hi, I'm Jay! ✨
 🚀 Data Scientist in the making, sharing my tech journey and learnings along the way!<br/>
 🎓 Completed Masters in Data Science at [Kingston University, London](https://www.kingston.ac.uk/postgraduate/courses/data-science-msc/). <br/>
-🔍 Passionate about data analytics, machine learning, and data visualization. <br/>
+🔍 Passionate about data analytics, machine learning, and data visualisation. <br/>
 
 Check out what I’ve been up to:  <br/>
 🌍 Explore my [Portfolio](https://www.jaydugad.com) <br/>
 ✍️ Read my [Blog](https://www.jaydugad.com/blogs) <br/>
 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/jay-dugad) <br/>
 
-Currently diving deep into data analytics and visualization, always eager to learn something new! Stay tuned for more updates as I continue this exciting journey.<br/>
+Currently diving deep into data analytics and visualisation, always eager to learn something new! Stay tuned for more updates as I continue this exciting journey.<br/>
 
 
 ### Tech Stack
